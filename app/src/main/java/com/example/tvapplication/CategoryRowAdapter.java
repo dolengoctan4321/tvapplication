@@ -30,11 +30,8 @@ public class CategoryRowAdapter extends RecyclerView.Adapter<CategoryRowAdapter.
     }
 
     public void setCategoryList(List<MovieModel.Result> newList) {
-        Log.d("CategoryRowAdapter", "setCategoryList: received " + (newList != null ? newList.size() : 0) + " items");
         categoryList.clear();
-        if (newList != null) {
-            categoryList.addAll(newList);
-        }
+        if (newList != null) categoryList.addAll(newList);
         notifyDataSetChanged();
     }
 
@@ -68,13 +65,17 @@ public class CategoryRowAdapter extends RecyclerView.Adapter<CategoryRowAdapter.
         void bind(MovieModel.Result category) {
             txtCategoryTitle.setText(category.getTitle());
             recyclerInner.setLayoutManager(new LinearLayoutManager(context, LinearLayoutManager.HORIZONTAL, false));
-            recyclerInner.setFocusable(true);
-            recyclerInner.setFocusableInTouchMode(true);
-            recyclerInner.setDescendantFocusability(ViewGroup.FOCUS_AFTER_DESCENDANTS);
-            recyclerInner.setHasFixedSize(true);
-            recyclerInner.setClipToPadding(false);
-            recyclerInner.setClipChildren(false);
-            MovieAdapter adapter = new MovieAdapter(category.getDetails(), listener);
+            RecyclerView.Adapter<?> adapter;
+            switch (category.getLayoutType()) {
+                case "banner":
+                    adapter = new BannerAdapter(category.getDetails(), listener);
+                    break;
+                case "ranked":
+                    adapter = new RankedAdapter(category.getDetails(), listener);
+                    break;
+                default:
+                    adapter = new BannerAdapter(category.getDetails(), listener);
+            }
             recyclerInner.setAdapter(adapter);
         }
     }

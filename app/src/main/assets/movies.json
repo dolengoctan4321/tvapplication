@@ -403,7 +403,8 @@
           "vote_average": 7.3,
           "vote_count": 103
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 1,
@@ -806,7 +807,8 @@
           "poster_path": "/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg",
           "popularity": 198.941
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 2,
@@ -1209,7 +1211,8 @@
           "vote_average": 5.6,
           "vote_count": 19
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 3,
@@ -1495,7 +1498,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 4,
@@ -1781,7 +1785,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 5,
@@ -2067,7 +2072,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 6,
@@ -2353,7 +2359,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 7,
@@ -2639,7 +2646,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 8,
@@ -2925,7 +2933,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 9,
@@ -3211,7 +3220,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 10,
@@ -3497,7 +3507,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 11,
@@ -3783,7 +3794,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 12,
@@ -4069,7 +4081,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 13,
@@ -4355,7 +4368,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 14,
@@ -4641,7 +4655,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 15,
@@ -4927,7 +4942,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 16,
@@ -5213,7 +5229,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 17,
@@ -5499,7 +5516,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 18,
@@ -5785,7 +5803,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 19,
@@ -6071,7 +6090,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 20,
@@ -6357,7 +6377,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 21,
@@ -6643,7 +6664,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 22,
@@ -6929,7 +6951,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 23,
@@ -7215,7 +7238,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 24,
@@ -7501,7 +7525,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 25,
@@ -7787,7 +7812,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 26,
@@ -8073,7 +8099,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 27,
@@ -8359,7 +8386,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 28,
@@ -8645,7 +8673,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 29,
@@ -8931,7 +8960,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 30,
@@ -9217,7 +9247,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 31,
@@ -9503,7 +9534,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 32,
@@ -9789,7 +9821,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 33,
@@ -10075,7 +10108,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 34,
@@ -10361,7 +10395,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 35,
@@ -10647,7 +10682,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 36,
@@ -10933,7 +10969,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 37,
@@ -11219,7 +11256,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 38,
@@ -11505,7 +11543,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 39,
@@ -11791,7 +11830,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 40,
@@ -12077,7 +12117,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 41,
@@ -12363,7 +12404,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 42,
@@ -12649,7 +12691,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 43,
@@ -12935,7 +12978,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 44,
@@ -13221,7 +13265,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 45,
@@ -13507,7 +13552,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 46,
@@ -13793,7 +13839,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 47,
@@ -14079,7 +14126,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 48,
@@ -14365,7 +14413,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 49,
@@ -14651,7 +14700,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 50,
@@ -14937,7 +14987,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 51,
@@ -15223,7 +15274,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 52,
@@ -15509,7 +15561,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 53,
@@ -15795,7 +15848,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 54,
@@ -16081,7 +16135,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 55,
@@ -16367,7 +16422,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 56,
@@ -16653,7 +16709,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 57,
@@ -16939,7 +16996,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 58,
@@ -17225,7 +17283,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 59,
@@ -17511,7 +17570,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 60,
@@ -17797,7 +17857,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 61,
@@ -18083,7 +18144,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 62,
@@ -18369,7 +18431,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 63,
@@ -18655,7 +18718,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 64,
@@ -18941,7 +19005,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 65,
@@ -19227,7 +19292,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 66,
@@ -19513,7 +19579,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 67,
@@ -19799,7 +19866,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 68,
@@ -20085,7 +20153,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 69,
@@ -20371,7 +20440,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 70,
@@ -20657,7 +20727,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 71,
@@ -20943,7 +21014,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 72,
@@ -21229,7 +21301,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 73,
@@ -21515,7 +21588,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 74,
@@ -21801,7 +21875,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 75,
@@ -22087,7 +22162,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 76,
@@ -22373,7 +22449,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 77,
@@ -22659,7 +22736,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 78,
@@ -22945,7 +23023,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 79,
@@ -23231,7 +23310,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 80,
@@ -23517,7 +23597,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 81,
@@ -23803,7 +23884,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 82,
@@ -24089,7 +24171,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 83,
@@ -24375,7 +24458,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 84,
@@ -24661,7 +24745,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 85,
@@ -24947,7 +25032,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 86,
@@ -25233,7 +25319,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 87,
@@ -25519,7 +25606,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 88,
@@ -25805,7 +25893,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 89,
@@ -26091,7 +26180,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 90,
@@ -26377,7 +26467,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 91,
@@ -26663,7 +26754,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 92,
@@ -26949,7 +27041,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 93,
@@ -27235,7 +27328,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 94,
@@ -27521,7 +27615,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 95,
@@ -27807,7 +27902,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 96,
@@ -28093,7 +28189,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 97,
@@ -28379,7 +28476,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 98,
@@ -28665,7 +28763,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 99,
@@ -28951,7 +29050,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 100,
@@ -29237,7 +29337,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 101,
@@ -29523,7 +29624,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 102,
@@ -29809,7 +29911,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 103,
@@ -30095,7 +30198,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 104,
@@ -30381,7 +30485,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 105,
@@ -30667,7 +30772,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 106,
@@ -30953,7 +31059,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 107,
@@ -31239,7 +31346,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 108,
@@ -31525,7 +31633,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 109,
@@ -31811,7 +31920,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 110,
@@ -32097,7 +32207,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 111,
@@ -32383,7 +32494,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 112,
@@ -32669,7 +32781,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 113,
@@ -32955,7 +33068,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 114,
@@ -33241,7 +33355,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 115,
@@ -33527,7 +33642,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 116,
@@ -33813,7 +33929,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 117,
@@ -34099,7 +34216,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 118,
@@ -34385,7 +34503,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 119,
@@ -34671,7 +34790,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 120,
@@ -34957,7 +35077,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 121,
@@ -35243,7 +35364,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 122,
@@ -35529,7 +35651,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 123,
@@ -35815,7 +35938,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 124,
@@ -36101,7 +36225,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 125,
@@ -36387,7 +36512,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 126,
@@ -36673,7 +36799,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 127,
@@ -36959,7 +37086,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 128,
@@ -37245,7 +37373,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 129,
@@ -37531,7 +37660,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 130,
@@ -37817,7 +37947,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 131,
@@ -38103,7 +38234,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 132,
@@ -38389,7 +38521,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 133,
@@ -38675,7 +38808,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 134,
@@ -38961,7 +39095,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 135,
@@ -39247,7 +39382,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 136,
@@ -39533,7 +39669,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 137,
@@ -39819,7 +39956,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 138,
@@ -40105,7 +40243,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 139,
@@ -40391,7 +40530,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 140,
@@ -40677,7 +40817,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 141,
@@ -40963,7 +41104,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 142,
@@ -41249,7 +41391,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 143,
@@ -41535,7 +41678,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 144,
@@ -41821,7 +41965,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 145,
@@ -42107,7 +42252,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 146,
@@ -42393,7 +42539,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 147,
@@ -42679,7 +42826,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 148,
@@ -42965,7 +43113,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 149,
@@ -43251,7 +43400,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 150,
@@ -43537,7 +43687,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 151,
@@ -43823,7 +43974,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 152,
@@ -44109,7 +44261,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 153,
@@ -44395,7 +44548,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 154,
@@ -44681,7 +44835,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 155,
@@ -44967,7 +45122,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 156,
@@ -45253,7 +45409,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 157,
@@ -45539,7 +45696,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 158,
@@ -45825,7 +45983,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 159,
@@ -46111,7 +46270,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 160,
@@ -46397,7 +46557,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 161,
@@ -46683,7 +46844,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 162,
@@ -46969,7 +47131,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 163,
@@ -47255,7 +47418,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 164,
@@ -47541,7 +47705,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 165,
@@ -47827,7 +47992,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 166,
@@ -48113,7 +48279,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 167,
@@ -48399,7 +48566,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 168,
@@ -48685,7 +48853,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 169,
@@ -48971,7 +49140,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 170,
@@ -49257,7 +49427,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 171,
@@ -49543,7 +49714,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 172,
@@ -49829,7 +50001,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 173,
@@ -50115,7 +50288,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 174,
@@ -50401,7 +50575,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 175,
@@ -50687,7 +50862,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 176,
@@ -50973,7 +51149,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 177,
@@ -51259,7 +51436,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 178,
@@ -51545,7 +51723,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 179,
@@ -51831,7 +52010,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 180,
@@ -52117,7 +52297,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 181,
@@ -52403,7 +52584,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 182,
@@ -52689,7 +52871,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 183,
@@ -52975,7 +53158,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 184,
@@ -53261,7 +53445,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 185,
@@ -53547,7 +53732,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 186,
@@ -53833,7 +54019,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 187,
@@ -54119,7 +54306,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 188,
@@ -54405,7 +54593,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 189,
@@ -54691,7 +54880,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 190,
@@ -54977,7 +55167,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 191,
@@ -55263,7 +55454,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 192,
@@ -55549,7 +55741,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 193,
@@ -55835,7 +56028,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 194,
@@ -56121,7 +56315,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 195,
@@ -56407,7 +56602,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 196,
@@ -56693,7 +56889,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 197,
@@ -56979,7 +57176,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 198,
@@ -57265,7 +57463,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 199,
@@ -57551,7 +57750,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 200,
@@ -57837,7 +58037,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     },
     {
       "id": 201,
@@ -58123,7 +58324,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "ranked"
     },
     {
       "id": 202,
@@ -58409,7 +58611,8 @@
           "vote_count": 3938,
           "popularity": 223.011
         }
-      ]
+      ],
+      "layoutType": "banner"
     }
   ]
 }

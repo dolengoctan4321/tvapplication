@@ -23,11 +23,13 @@ public class MovieModel {
         private List<Detail> details;
         private int id;
         private String title;
+        private String layoutType;
 
         public Result() {
             this.details = new ArrayList<>();
             this.id = 0;
             this.title = "";
+            this.layoutType = "";
         }
 
         public List<Detail> getDetails() {
@@ -52,6 +54,15 @@ public class MovieModel {
 
         public void setTitle(String title) {
             this.title = title;
+        }
+
+        public String getLayoutType() {
+            return layoutType;
+        }
+
+        public void setLayoutType(String layoutType)
+        {
+            this.layoutType = layoutType;
         }
 
         public static class Detail {

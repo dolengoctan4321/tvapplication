@@ -14,8 +14,6 @@ import com.bumptech.glide.Glide;
 
 public class MainActivity extends AppCompatActivity {
 
-    private TextView txtTitle, txtLanguage, txtOverview;
-    private ImageView imgBackdrop;
     private RecyclerView outerRecycler;
 
     @Override
@@ -23,20 +21,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        txtTitle = findViewById(R.id.title);
-        txtLanguage = findViewById(R.id.language);
-        txtOverview = findViewById(R.id.overview);
-        imgBackdrop = findViewById(R.id.backdrop);
         outerRecycler = findViewById(R.id.outer_recycler);
-
         outerRecycler.setLayoutManager(new LinearLayoutManager(this));
 
-        MovieViewModel viewModel;
-        viewModel = new ViewModelProvider(
+        MovieViewModel viewModel = new ViewModelProvider(
                 this,
                 ViewModelProvider.AndroidViewModelFactory.getInstance(getApplication())
         ).get(MovieViewModel.class);
-        CategoryRowAdapter adapter = new CategoryRowAdapter(this, this::updateDetails);
+
+        CategoryRowAdapter adapter = new CategoryRowAdapter(this, movie -> {});
         outerRecycler.setAdapter(adapter);
 
         viewModel.getMovies().observe(this, movieModel -> {
@@ -46,20 +39,15 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 Log.e("MainActivity", "MovieModel null or empty");
             }
-
-            // Set detail on first appeared
-            if (!movieModel.getResult().isEmpty() && !movieModel.getResult().get(0).getDetails().isEmpty()) {
-                updateDetails(movieModel.getResult().get(0).getDetails().get(0));
-            }
         });
     }
 
     private void updateDetails(MovieModel.Result.Detail item) {
-        txtTitle.setText(item.getTitle());
-        txtLanguage.setText(item.getOriginalLanguage());
-        txtOverview.setText(item.getOverview());
-
-        String imageUrl = "https://www.themoviedb.org/t/p/w780" + item.getBackdropPath();
-        Glide.with(this).load(imageUrl).into(imgBackdrop);
+//        txtTitle.setText(item.getTitle());
+//        txtLanguage.setText(item.getOriginalLanguage());
+//        txtOverview.setText(item.getOverview());
+//
+//        String imageUrl = "https://www.themoviedb.org/t/p/w780" + item.getBackdropPath();
+//        Glide.with(this).load(imageUrl).into(imgBackdrop);
     }
 }

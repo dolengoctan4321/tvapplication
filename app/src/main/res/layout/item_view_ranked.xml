@@ -1,0 +1,35 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="180dp"
+    android:layout_height="240dp"
+    android:layout_marginStart="12dp"
+    android:layout_marginEnd="16dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:foreground="?attr/selectableItemBackground"
+    android:background="@drawable/item_background_normal">
+
+    <ImageView
+        android:id="@+id/poster_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:background="@drawable/item_background_selector"
+        android:contentDescription="Movie Poster" />
+
+    <TextView
+        android:id="@+id/rank_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="4dp"
+        android:text="1"
+        android:textSize="52sp"
+        android:textColor="#FF000000"
+        android:textStyle="bold"
+        android:typeface="sans"
+        android:shadowColor="#FFFFFF"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:shadowRadius="4" />
+</FrameLayout>
